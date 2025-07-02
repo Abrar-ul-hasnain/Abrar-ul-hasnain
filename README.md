@@ -1,3 +1,20 @@
+## Hi there 👋,
+### Welcome to Muhammad Abrar ul Hassnain's GitHub Profile
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abrar-ul-hasnain)
+
+### 🧑🏻‍💻 About Me:
+
+- 👨🏻‍🎓 I am a passionate learner interested in Data Science, AI, and Frontend Web Development.
+- 🌱 I focused on building projects, learning every day, and dreaming big.
+- 💻 Enthusiastic about showcasing skills in HTML, CSS, and JavaScript through projects on GitHub.
+  
+### 🚀 GitHub Activity:
+
+- 📊 **Overall Activity:** I has 1 public repository and 1 commit, showing that he is just getting started on GitHub.
+- 🌟 **Top Repository:** His most starred repository, "Basic-Portfolio-", demonstrates his skills in HTML, CSS, and JavaScript.
+- 💼 **Frequent Languages:** CSS, HTML, and JavaScript are Muhammad's most frequently used languages, aligning with his interests.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ABRARULHASNAIN) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@abrar_bari533) 
