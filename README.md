@@ -11,9 +11,9 @@
   
 ### 🚀 GitHub Activity:
 
-- 📊 **Overall Activity:** I has 1 public repository and 1 commit, showing that he is just getting started on GitHub.
-- 🌟 **Top Repository:** His most starred repository, "Basic-Portfolio-", demonstrates his skills in HTML, CSS, and JavaScript.
-- 💼 **Frequent Languages:** CSS, HTML, and JavaScript are Muhammad's most frequently used languages, aligning with his interests.
+- 📊 **Overall Activity:** I have 1 public repository and 1 commit, indicating that I am just getting started on GitHub.
+- 🌟 **Top Repository:** My most starred repository, "Basic-Portfolio-", demonstrates my skills in HTML, CSS, and JavaScript.
+- 💼 **Frequent Languages:** CSS, HTML, JavaScript, and Python are my most frequently used languages, aligning with my interests.
 
 
 ## 🌐 Socials:
