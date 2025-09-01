@@ -8,6 +8,7 @@
 - 👨🏻‍🎓 I am a passionate learner interested in Data Science, AI, and Frontend Web Development.
 - 🌱 I focused on building projects, learning every day, and dreaming big.
 - 💻 Enthusiastic about showcasing skills in HTML, CSS, and JavaScript through projects on GitHub.
+- 🧮 Love Automation
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ABRARULHASNAIN) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@abrar_bari533) 
